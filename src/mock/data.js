@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'IMG-20190821-WA0008.jpg',
   paragraphOne: 'I am a fourth year undergraduate at National Institute of Technology, Tiruchchirapalli majoring in Metallurgical and Materials Engineering. I am a passionate data analyst, ML engineer and have strong fundamentals of data science, ML algorithms and object oriented programming with python. I love to solve questions on various coding platforms.',
-  paragraphTwo: 'My interest also lies in web development. I like to build things. I am familiar with javascript and its frameworks like React.js and Node.js. I have worked on a couple of projects on React.js and currently working on one using Node.js. Apart from this, I am also a Tech blogger and one of the core memebers at Developer Students Club (DSC), NIT Patna.',
+  paragraphTwo: 'My interest also lies in web development. I like to build things. I am familiar with HTML, CSS, basic javascript and its frameworks like React.js. I have worked on a couple of projects on React.js. Apart from this, I am also a graphic designer.',
   resume: '', // if no resume, the button will not show up
 };
 
