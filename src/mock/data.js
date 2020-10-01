@@ -56,9 +56,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'https://www.linkedin.com/in/anjaneyulu-kondrapally-b5723a16b/',
-  btn: 'https://kondrapallyanjaney.wixsite.com/mysite/hit-me',
-  email: '',
+  cta: 'https://kondrapallyanjaney.wixsite.com/mysite/hit-me',
+  btn: '',
+  email: 'kondrapallyanjaneyulu2017@gmail.com',
 };
 
 // FOOTER DATA
