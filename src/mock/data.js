@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'IMG-20190821-WA0008.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'kondrapallyanjaneyulu2017@gmail.com',
 };
 
 // FOOTER DATA
@@ -78,7 +78,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/anjaneyulu-kondrapally-b5723a16b/',
     },
     {
       id: nanoid(),
