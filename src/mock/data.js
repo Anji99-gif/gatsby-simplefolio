@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, My name is', 
   name: 'Anjaneyulu Kondrapally',
-  subtitle: 'I am a pre-final year student at NIT, Trichy',
+  subtitle: 'I am a B.Tech final year student at NIT, Trichy',
   cta: 'Know more', 
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'IMG-20190821-WA0008.jpg',
   paragraphOne: 'I am a fourth year undergraduate at National Institute of Technology, Tiruchchirapalli majoring in Metallurgical and Materials Engineering. I am a passionate data analyst, ML engineer and have strong fundamentals of data science, ML algorithms and object oriented programming with python. I love to solve questions on various coding platforms.',
-  paragraphTwo: 'My interest also lies in web development. I like to build things. I am familiar with HTML, CSS, basic javascript and its frameworks like React.js. I have worked on a couple of projects on React.js.',
+  paragraphTwo: 'My interest also lies in web development. I like to build things. I am familiar with HTML, CSS, Bootstrap basic javascript and its frameworks like React.js(still learning). I have worked on a couple of projects on React.js.',
   paragraphThree:'Apart from this, i am also a graphic designer',
   resume: '', 
 
@@ -28,11 +28,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Customer turnover',
+    info: 'As an intern at Learntricks, my job is to explore and manipulate the data to build a classifier model to determine whether the customer will leave or not. And predict if the client will subscribe bank Term deposit, using python as a primary tool, under the guidance of Mr. Anand sir.',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -64,16 +64,8 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+   
+    
     {
       id: nanoid(),
       name: 'linkedin',
@@ -82,7 +74,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Anji99-gif',
     },
   ],
 };
